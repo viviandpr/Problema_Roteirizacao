@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.Form1.resources
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.Properties.Resources.resources
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\bin\Debug\Problema_Roteirizacao.exe.config
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\bin\Debug\Problema_Roteirizacao.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\bin\Debug\Problema_Roteirizacao.pdb
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.exe
+C:\Users\Dell\Desktop\Mestrado\Programas\Problema_Roteirizacao\Problema_Roteirizacao\obj\Debug\Problema_Roteirizacao.pdb
